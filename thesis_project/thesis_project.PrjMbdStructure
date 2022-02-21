@@ -1,0 +1,4 @@
+Record=DiagramHierarchy|SourceDocument=MultiBoardSchematic1.MbsDoc|Kind=Multi-board Schematic Module|Designator=2|Source=..\thesis_daughterboard\thesis_daughterboard.PrjPcb
+Record=SubProject|SourceDocument=MultiBoardSchematic1.MbsDoc|ProjectPath=..\thesis_daughterboard\thesis_daughterboard.PrjPcb
+Record=DiagramHierarchy|SourceDocument=MultiBoardSchematic1.MbsDoc|Kind=Multi-board Schematic Module|Designator=1|Source=..\thesis_motherboard\thesis_motherboard.PrjPcb
+Record=SubProject|SourceDocument=MultiBoardSchematic1.MbsDoc|ProjectPath=..\thesis_motherboard\thesis_motherboard.PrjPcb
