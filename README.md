@@ -1,8 +1,8 @@
 # environ-tracker-hardware
-PCB files for environmental tracker thesis project
+PCB files for environmental tracker thesis project.
 
 ## Overview
-The hardware section of the project comprises two PCB stacked on each other, the motherboard and the daughterboard.
+The hardware section of the project comprises two PCBs stacked on each other, the motherboard and the daughterboard.
 
 ![mated](https://user-images.githubusercontent.com/42936055/154925301-af1645ed-1d4c-48f9-9837-d9ac97c9b31d.JPG)
 
