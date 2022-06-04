@@ -1,0 +1,22 @@
+[DesignatorManager]
+
+[SheetNumberManager]
+SheetNumberOrder=Display Order
+SheetNumberMethod=Increasing
+DocumentName0=gps.SchDoc
+UniqueIDPath0=
+SheetNumber0=4
+DocumentName1=lora.SchDoc
+UniqueIDPath1=
+SheetNumber1=3
+DocumentName2=mcu.SchDoc
+UniqueIDPath2=
+SheetNumber2=2
+DocumentName3=motherboard.SchDoc
+UniqueIDPath3=
+SheetNumber3=1
+DocumentName4=power.SchDoc
+UniqueIDPath4=
+SheetNumber4=5
+
+
