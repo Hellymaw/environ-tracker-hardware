@@ -201,6 +201,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for thesis_motherboard\Design Rule Check - motherboard.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -1154,16 +1158,10 @@ UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
 ComponentLibraryIdentifier0=thesis_schem_lib.SchLib
-ComponentDesignItemID0=0900FM15D0039E
-ComponentSymbolReference0=0900FM15D0039E
+ComponentDesignItemID0=MX25V8035F
+ComponentSymbolReference0=MX25V8035F
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
-ComponentLibIdentifierKind1=Library Name And Type
-ComponentLibraryIdentifier1=thesis_schem_lib.SchLib
-ComponentDesignItemID1=RXCOIL_MISC
-ComponentSymbolReference1=RXCOIL_MISC
-ComponentUpdate1=0
-ComponentIsDeviceSheet1=0
 FullReplace=0
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1188,11 +1186,8 @@ ParameterUpdate3=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
-ModelName0=0900FM15D0039E
+ModelName0=MX25V8035F
 ModelUpdate0=1
-ModelType1=PCBLIB
-ModelName1=RX_COIL_MISC
-ModelUpdate1=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
