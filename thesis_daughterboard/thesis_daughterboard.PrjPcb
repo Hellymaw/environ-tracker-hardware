@@ -116,6 +116,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NDJMFBPJ
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for thesis_daughterboard\Design Rule Check - daughterboard.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -1051,8 +1055,8 @@ UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
 ComponentLibraryIdentifier0=thesis_schem_lib.SchLib
-ComponentDesignItemID0=M1.6 Mounting Hole
-ComponentSymbolReference0=M1.6 Mounting Hole
+ComponentDesignItemID0=SX1508B
+ComponentSymbolReference0=SX1508B
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
 FullReplace=1
@@ -1079,7 +1083,7 @@ ParameterUpdate3=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
-ModelName0=M1.6
+ModelName0=QFN40P300X300X60_HS-21N
 ModelUpdate0=1
 
 [DatabaseUpdateOptions]
