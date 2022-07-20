@@ -150,6 +150,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for thesis_project\Design Rule Check - thesis_panel.html
+DItemRevisionGUID=
+
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
